@@ -18,7 +18,7 @@
 
 > A quick look at these tools in action
 
-![Preview](https://raw.githubusercontent.com/linuxteck/useful-cli-tools/main/cli-preview.png)
+![Preview](https://github.com/linuxteck/useful-linux-terminal-commands/blob/main/cbonsai.png)
 
 ---
 
